@@ -1,0 +1,2 @@
+# Instant News Headline Generator: Python, Tkinter
+It is basic news headline app developed with the help of Python and UI is developed with the help of python module named Tkinter. The news is displayed with the help of News API.
